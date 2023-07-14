@@ -11,6 +11,15 @@ public class Estudiantes {
     private JComboBox comboBox2;
     private JComboBox comboBox3;
     private JComboBox comboBox4;
+    private JCheckBox rojoCheckBox;
+    private JCheckBox verdeCheckBox;
+    private JCheckBox ningunoCheckBox;
+    private JRadioButton siRadioButton;
+    private JRadioButton noRadioButton;
+    private JButton Guardar;
+    private JButton Cargar;
+    private JButton Siguiente;
+    private JButton Atras;
 
     public static void main(String[] args) {
         JFrame frame = new JFrame("Estudiantes");
